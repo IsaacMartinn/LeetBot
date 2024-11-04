@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.first-column{
+    background-color:#313131;
+    border-radius: 25px;
+
+    width: 200px;
+    margin-right: 10px;
+    padding:20px;
+    height:1120px;
+}
+
+.second-column{
+    background-color:#313131;
+    border-radius: 25px;
+    padding: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 1120px;
+}
+
+.top-left-navbar{
+    text-align:left;
+    background-color: red;
+}
+
+body{
+    background-color:purple;
+}
+
+.example{
+  background-color:#1E201E;
+  border-radius: 25px;
+  padding: 20px;
+  width: 550px;
+  height: 150px;
+  margin: auto;
+
+
+  padding: 10px;
+}
+
+.words{
+    color:white;
+
+}
+
+.difficulty{
+    color:orange;
+
+}
+
+header{
+
+    background-color:#525252;
+}
+
+#textbox{
+    height:100000000;
+    font-size:14pt;
+}
+
+#btn{
+    background-color:green;
+    margin-left: auto;
+    margin-right:0;
+}
